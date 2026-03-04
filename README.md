@@ -23,24 +23,24 @@ The current prototype is designed to prioritize medical interpretability and eas
 Follow these simple steps to run the application on your local machine.
 
 **1. Clone the repository**
-```bash
+
 git clone https://github.com/hoanlenguyen/SISAI_FinalProject
 cd SISAI_FinalProject
 
 **2. Create a virtual environment**
-```bash
+
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 **3. Install dependencies**
-```bash
+
 pip install -r requirements.txt
 
 **4. Run the application**
-```bash
+
 streamlit run app.py
 
-💡 Usage
+## 💡 Usage
 Open the local URL provided by Streamlit in your terminal (usually http://localhost:8501).
 
 Use the sliders and dropdown menus to enter the patient's general and clinical metadata.
