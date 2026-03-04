@@ -40,7 +40,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## 💡 Usage
-Open the local URL provided by Streamlit in your terminal (usually http://localhost:8501).
+Open the local URL provided by Streamlit in your web browser (usually http://localhost:8501).
 
 Use the sliders and dropdown menus to enter the patient's general and clinical metadata.
 
