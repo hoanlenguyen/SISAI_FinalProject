@@ -29,9 +29,7 @@ Follow these simple steps to run the application on your local machine.
 
 **2. Create a virtual environment**
 
-python -m venv venv
-source venv/bin/activate  
-* # On Windows use: venv\Scripts\activate
+* python -m venv venv
 
 **3. Install dependencies**
 
