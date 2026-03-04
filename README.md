@@ -1,24 +1,24 @@
-# Heart Disease Prediction MVP❤️
+# Heart Disease Prediction MVP
 
 A machine learning web application designed to support the early detection of cardiovascular diseases. This Minimum Viable Product (MVP) uses a trained classification model to analyze clinical and lifestyle metadata, predicting whether a patient is at "High Risk" or "Low Risk" for heart disease.
 
-## 🚀 Features
+## Features
 * **Predictive Machine Learning:** Utilizes a pre-trained model (`final_model.pkl`) to instantly evaluate patient data.
 * **Interactive UI:** A simple, intuitive web interface built with Streamlit for easy data entry and instant risk assessment. 
 * **Transparent Results:** Outputs a clear risk category (High/Low) alongside the model's exact calculated probability percentage.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Python 3
 * **Frontend/UI:** Streamlit
 * **Data Manipulation:** Pandas
 * **Machine Learning & Serialization:** Scikit-Learn, Joblib
 
-## 📊 Model Details
+## Model Details
 The current prototype is designed to prioritize medical interpretability and ease of use. 
 * **Input Features (10):** Age (years), Gender, Body Mass Index (BMI), Systolic Blood Pressure, Diastolic Blood Pressure, Cholesterol Level, Glucose Level, Smoking status, Alcohol intake, and Physical Activity.
 * **Output:** A binary classification indicating High Risk or Low Risk, accompanied by a probability score.
 
-## 💻 Installation and Setup
+## Installation and Setup
 
 Follow these simple steps to run the application on your local machine.
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-## 💡 Usage
+## Usage
 Open the local URL provided by Streamlit in your web browser (usually http://localhost:8501).
 
 Use the sliders and dropdown menus to enter the patient's general and clinical metadata.
