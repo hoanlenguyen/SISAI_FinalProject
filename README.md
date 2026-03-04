@@ -24,8 +24,8 @@ Follow these simple steps to run the application on your local machine.
 
 **1. Clone the repository**
 
-git clone https://github.com/hoanlenguyen/SISAI_FinalProject
-cd SISAI_FinalProject
+* git clone https://github.com/hoanlenguyen/SISAI_FinalProject
+* cd SISAI_FinalProject
 
 **2. Create a virtual environment**
 
