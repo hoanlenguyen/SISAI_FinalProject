@@ -1,4 +1,4 @@
-# Heart Disease Prediction MVP ❤️
+# Heart Disease Prediction MVP❤️
 
 A machine learning web application designed to support the early detection of cardiovascular diseases. This Minimum Viable Product (MVP) uses a trained classification model to analyze clinical and lifestyle metadata, predicting whether a patient is at "High Risk" or "Low Risk" for heart disease.
 
@@ -29,7 +29,7 @@ Follow these simple steps to run the application on your local machine.
 
 **2. Create a virtual environment**
 
-* python -m venv venv
+* python -m venv
 
 **3. Install dependencies**
 
